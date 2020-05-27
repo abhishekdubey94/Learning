@@ -1,0 +1,506 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Produ",
+				"Product"
+			],
+			[
+				"get",
+				"GET"
+			],
+			[
+				"pr",
+				"product_create_view"
+			],
+			[
+				"Produc",
+				"ProductForm"
+			],
+			[
+				"pro",
+				"product_detail_view"
+			],
+			[
+				"cont",
+				"contact_view"
+			],
+			[
+				"home",
+				"home_view"
+			],
+			[
+				"de",
+				"define"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/products/views.py",
+			"settings":
+			{
+				"buffer_size": 1515,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/products/templates/products/product_create.html",
+			"settings":
+			{
+				"buffer_size": 173,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/products/forms.py",
+			"settings":
+			{
+				"buffer_size": 1204,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/tryDjango/urls.py",
+			"settings":
+			{
+				"buffer_size": 1136,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/etc/apt/sources.list.d/additional-repositories.list",
+			"settings":
+			{
+				"buffer_size": 72,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/abhishek/DEV/Programming/Algorithms/Problems/NewYearChaos.cpp",
+			"settings":
+			{
+				"buffer_size": 1809,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/C++11.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C++11.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++11.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C++11.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C++11.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++11.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C++11.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 259.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Preferences: Settings - Default"
+			],
+			[
+				"",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"packag",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 148.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/abhishek/DEV/Learning/Django/tryDjango/src",
+		"/home/abhishek/DEV/Learning/Django/tryDjango/src/products",
+		"/home/abhishek/DEV/Learning/Django/tryDjango/src/products/templates",
+		"/home/abhishek/DEV/Learning/Django/tryDjango/src/products/templates/products",
+		"/home/abhishek/DEV/Learning/Django/tryDjango/src/tryDjango"
+	],
+	"file_history":
+	[
+		"/home/abhishek/DEV/Learning/Django/tryDjango/src/products/templates/products/product_detail.html",
+		"/home/abhishek/DEV/Learning/Django/tryDjango/src/products/models.py",
+		"/home/abhishek/DEV/Learning/Django/tryDjango/src/tryDjango/urls.py",
+		"/home/abhishek/Desktop/c.cpp",
+		"/home/abhishek/.config/sublime-text-3/Packages/User/C++11.sublime-build",
+		"/tmp/.fr-yaj9jc/Package Control.py",
+		"/home/abhishek/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/abhishek/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/abhishek/DEV/Learning/Django/tryDjango/src/pages/views.py",
+		"/home/abhishek/DEV/Learning/Django/tryDjango/src/templates/product/detail.html",
+		"/home/abhishek/DEV/Learning/Django/tryDjango/src/templates/base.html",
+		"/home/abhishek/DEV/Learning/Django/tryDjango/src/tryDjango/settings.py",
+		"/home/abhishek/DEV/Learning/Django/tryDjango/src/templates/contact.html",
+		"/home/abhishek/DEV/Learning/Django/tryDjango/src/templates/about.html",
+		"/home/abhishek/DEV/Learning/Django/tryDjango/src/templates/home.html",
+		"/home/abhishek/DEV/Learning/Django/tryDjango/src/products/admin.py",
+		"/home/abhishek/DEV/Learning/Django/tryDjango/src/products/migrations/0002_product_summary.py",
+		"/home/abhishek/DEV/Programming/Algorithms/Dynamic Programming/StringMatching/Abbreviation.cpp",
+		"/home/abhishek/DEV/Programming/Algorithms/Dynamic Programming/MaxSubArrayNonAdjacent/MaxSubArray.cpp",
+		"/home/abhishek/DEV/Programming/Algorithms/Dynamic Programming/binomial/binomial.cpp",
+		"/home/abhishek/DEV/Programming/Algorithms/Dynamic Programming/fibonacci/ug.cpp",
+		"/home/abhishek/DEV/Programming/Algorithms/Dynamic Programming/fibonacci/fibMem.cpp",
+		"/home/abhishek/DEV/Programming/Algorithms/Dynamic Programming/fibTab.cpp",
+		"/home/abhishek/DEV/Programming/Algorithms/Dynamic Programming/hello.cpp"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/products/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1515,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1514,
+								1514
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 663.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/products/templates/products/product_create.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 173,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								109,
+								109
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/products/forms.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1204,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								555,
+								555
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": -0.0,
+						"translation.y": 255.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/tryDjango/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1136,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1072,
+								1072
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/etc/apt/sources.list.d/additional-repositories.list",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 72,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								72,
+								72
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/abhishek/DEV/Programming/Algorithms/Problems/NewYearChaos.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1809,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1809,
+								1809
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 172.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tryDjango-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
